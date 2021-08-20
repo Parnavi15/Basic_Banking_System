@@ -1,0 +1,22 @@
+body{
+    background-image: url("../img/adduserback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.form-container{
+    border: 0px solid #fff;
+    padding:30px 20px;
+    box-shadow: -2px 4px 28px 11px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 4px 28px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 28px 11px rgba(0,0,0,0.75);
+}
+.bg
+{
+    padding-top:40px;
+    padding-left: 150px;
+}
+h2{
+    color: black;
+}
